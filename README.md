@@ -3,6 +3,11 @@ _This project was carried out under the supervision of Andriy Konovalov, Philoso
 
 This project implements functions for building an ensemble of classifiers and regressors using the TPOT and auto-sklearn libraries with the help of a genetic algorithm evolved using the deap library. The functions allow using these libraries to optimise machine learning models and build an ensemble of them.
 
+Below is a flowchart demonstrating the stages of the developed methodology:
+
+![image](https://github.com/yevIbrahimov/gen_ensemble/assets/61506686/a21ab112-4b3e-4ef5-a162-627c7b551b91)
+
+
 **Usage**.
 Import the functions from this file into your project.
 1. Use the gen_ensemble_builder_clf function to build a classifier ensemble.
