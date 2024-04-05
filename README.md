@@ -1,5 +1,5 @@
 # Dyploma project: building an ensemble of classifiers and regressors with TPOT and auto-sklearn using genetic alorithm 
-_This project was carried out under the supervision of Andriy Konovalov, Philosophy Doctor of Physics and Mathematics_
+**_This project was carried out under the supervision of Andriy Konovalov, Philosophy Doctor of Physics and Mathematics_**
 
 This project implements functions for building an ensemble of classifiers and regressors using the TPOT and auto-sklearn libraries with the help of a genetic algorithm evolved using the deap library. The functions allow using these libraries to optimise machine learning models and build an ensemble of them.
 
