@@ -20,7 +20,7 @@ X_train, X_test, y_train, y_test = load_data()
 # run classification func
 result = gen_ensemble_builder_clf(X_train, X_test, y_train, y_test)
 
-# Виведіть результат
+# print result
 print(result)
 ```
 
